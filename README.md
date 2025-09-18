@@ -1,3 +1,35 @@
-vless://f06c83b2-73e8-47e9-da98-b7072f74d18d@cell_1.3.aligolizadehmaraheh.com:4522?security=&encryption=none&headerType=http&type=tcp#z2nkhuas
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#milano2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20%40OutlineReleasedKey
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>افزودن به v2rayNG</title>
+  <style>
+    body {
+      font-family: Tahoma, sans-serif;
+      text-align: center;
+      margin-top: 100px;
+      background: #f5f5f5;
+    }
+    a {
+      display: inline-block;
+      padding: 14px 28px;
+      font-size: 16px;
+      border-radius: 8px;
+      background-color: #2196F3;
+      color: white;
+      text-decoration: none;
+    }
+    a:hover {
+      background-color: #0b7dda;
+    }
+  </style>
+</head>
+<body>
+  <h2>افزودن مستقیم سابسکریپشن به v2rayNG</h2>
+  <p>با زدن روی دکمه زیر، سابسکریپشن مستقیماً در v2rayNG باز می‌شود:</p>
+
+  <a href="v2rayng://install-config?url=https://miladshahhi.github.io/-/sub.txt">
+    📲 افزودن به v2rayNG
+  </a>
+</body>
+</html>
